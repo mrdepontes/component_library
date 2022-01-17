@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/mrdepontes/component_library#readme",
   "dependencies": {
-    "recharts": "^2.1.8"
+    "recharts": "^2.1.8",
+    "storybook": "^6.4.13"
   }
 }
