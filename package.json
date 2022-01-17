@@ -1,0 +1,22 @@
+{
+  "name": "component_library",
+  "version": "1.0.0",
+  "description": "Simple component library for applications ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrdepontes/component_library.git"
+  },
+  "author": "Richard Depontes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrdepontes/component_library/issues"
+  },
+  "homepage": "https://github.com/mrdepontes/component_library#readme",
+  "dependencies": {
+    "recharts": "^2.1.8"
+  }
+}
