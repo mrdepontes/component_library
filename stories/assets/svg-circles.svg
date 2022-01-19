@@ -1,0 +1,11 @@
+<svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="30" height="30" fill="#E5E5E5"/>
+<g id="Frame 1">
+<rect width="30" height="30" fill="white"/>
+<g id="Frame">
+<path id="inner" d="M15 21C18.866 21 22 18.0899 22 14.5C22 10.9101 18.866 8 15 8C11.134 8 8 10.9101 8 14.5C8 18.0899 11.134 21 15 21Z" fill="#00D4FF"/>
+<path id="middle" d="M15 24C20.5228 24 25 19.7467 25 14.5C25 9.25329 20.5228 5 15 5C9.47715 5 5 9.25329 5 14.5C5 19.7467 9.47715 24 15 24Z" fill="#289CB4" fill-opacity="0.5"/>
+<path id="outer" d="M15 28C22.732 28 29 21.9558 29 14.5C29 7.04416 22.732 1 15 1C7.26801 1 1 7.04416 1 14.5C1 21.9558 7.26801 28 15 28Z" fill="#4A4F50" fill-opacity="0.5"/>
+</g>
+</g>
+</svg>

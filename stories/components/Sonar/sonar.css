@@ -1,0 +1,10 @@
+:root {
+    --inner: "#00D4FF"
+}
+#innerG {
+    fill: var(--inner);
+}
+#middle {
+}
+#outer {
+}
